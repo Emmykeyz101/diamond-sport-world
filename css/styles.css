@@ -1658,6 +1658,17 @@ label {
   padding-top: 65px;
   padding-bottom: 42px;
 }
+.atag{
+  color: white;
+}
+.btn4{
+  padding: 10px 20px 10px 20px;
+  margin: 10px 0 0 130px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  color: white;
+  background-color: #103960;
+}
 
 .flat-spacing-31 {
   padding-top: 100px;
@@ -2022,6 +2033,9 @@ label {
   cursor: pointer;
   transition-duration: 0.6s;
   border-radius: 2rem;
+  width: 100%;
+  margin: auto;
+  height: 50vh;
 }
 .igm:hover{
    transform: scale(1.04);
@@ -9894,6 +9908,9 @@ header.header-bg {
   line-height: 25px;
   position: relative;
   padding-left: 20px;
+}
+.tex4{
+  text-align: center;
 }
 .tf-product-des-demo ul li:not(:last-child) {
   margin-bottom: 15px;
@@ -19756,6 +19773,9 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   .tf-sticky-btn-atc {
     bottom: 67px;
   }
+  .igm{
+    height: 40vh;
+  }
   .tf-toolbar-bottom.type-1024 {
     display: flex;
   }
@@ -21471,5 +21491,23 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
     right: 0;
   }
 }
-
+.uil{
+  font-size: 22px;
+}
+.pn{
+  font-size: 13px;
+}
+.conh{
+  font-size: 20px;
+}
+.h1-d{
+  font-size: 15px;
+}
+.di{
+  width: 100%;
+}
+.disp{
+  margin-left: 20px;
+  margin-top: 50px;
+}
 /*# sourceMappingURL=styles.css.map */
